@@ -1,0 +1,33 @@
+! Version: 201802221543
+! Title: 第一个规则源
+! Author: 作者是我
+! Last modified: 2018/02/22 15:13 +0800
+! Expires: 30天
+! Email: 
+! Others: 
+!--以下是规则内容开始
+###adBody01
+###adBody02
+###adBody03
+###adBody04
+###adBody06
+
+||m.piaotian.com$script
+
+||book.3g.cn##.download
+||book.3g.cn##.advert
+ithome.com##.app_recom
+ithome.com##.fly_down
+
+||cpro.baidustatic.com
+||res.book.3g.cn/book_3g_cn/images/apk_down_img.png
+
+||r.bxb.oupeng.com/script/show_ads.js$script
+domob.cn$third-party
+youmi.net$third-party
+vpon.com$third-party
+admob.com$third-party,script
+i-click.com$script,third-party
+i-click.asia$script,third-party
+
+@@||qiyipic.com/common/lego/$image
