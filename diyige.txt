@@ -35,3 +35,5 @@ i-click.com$script,third-party
 i-click.asia$script,third-party
 
 @@||qiyipic.com/common/lego/$image
+||chaojilm.net
+||dlads.cn
