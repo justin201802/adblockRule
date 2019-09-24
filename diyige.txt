@@ -1,7 +1,7 @@
-! Version: 201802221543
+! Version: 20190924
 ! Title: 第一个规则源
 ! Author: 作者是我
-! Last modified: 2018/02/22 15:13 +0800
+! Last modified: 2019/09/24 15:13 +0800
 ! Expires: 30天
 ! Email: 
 ! Others: 
