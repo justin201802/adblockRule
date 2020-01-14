@@ -1,4 +1,4 @@
-! Version: 20190924
+! Version: 20200114
 ! Title: 第一个规则源
 ! Author: 作者是我
 ! Last modified: 2019/09/24 15:13 +0800
@@ -40,3 +40,9 @@ dlads.cn
 iscrv.com
 lskdi.cn
 89kvh.cn
+56vob.cnh56h5r.xyz
+vw81e.cn
+v5q3p.cn
+m.quipin.cn
+qienews.cn
+ybdcjt.cn
