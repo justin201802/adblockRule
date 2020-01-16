@@ -34,6 +34,8 @@ admob.com$third-party,script
 i-click.com$script,third-party
 i-click.asia$script,third-party
 
+xbiquge.cc$script,third-party
+
 @@||qiyipic.com/common/lego/$image
 chaojilm.net
 dlads.cn
@@ -47,5 +49,4 @@ m.quipin.cn
 qienews.cn
 ybdcjt.cn
 f2z4d.cn
-
-$~third-party
+h56h5r.xyz
