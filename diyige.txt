@@ -1,7 +1,7 @@
-! Version: 20200114
+! Version: 20200116
 ! Title: 第一个规则源
 ! Author: 作者是我
-! Last modified: 2019/09/24 15:13 +0800
+! Last modified: 2020/1/16 15:13 +0800
 ! Expires: 30天
 ! Email: 
 ! Others: 
@@ -34,7 +34,7 @@ admob.com$third-party,script
 i-click.com$script,third-party
 i-click.asia$script,third-party
 
-xbiquge.cc$script,third-party
+
 
 @@||qiyipic.com/common/lego/$image
 chaojilm.net
