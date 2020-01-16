@@ -47,3 +47,5 @@ m.quipin.cn
 qienews.cn
 ybdcjt.cn
 f2z4d.cn
+
+$~third-party
