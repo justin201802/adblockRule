@@ -1,4 +1,4 @@
-! Version: 20200212_1
+! Version: 20200212_2
 ! Title: 第一个规则源
 ! Author: 作者是我
 ! Last modified: 2020/2/12 15:13 +0800
@@ -51,3 +51,4 @@ ybdcjt.cn
 f2z4d.cn
 h56h5r.xyz
 b2fwnu.cn
+j5ef5r.cn
