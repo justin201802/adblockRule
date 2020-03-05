@@ -1,7 +1,7 @@
-! Version: 20200116
+! Version: 20200212_2
 ! Title: 第一个规则源
 ! Author: 作者是我
-! Last modified: 2020/1/16 15:13 +0800
+! Last modified: 2020/2/12 15:13 +0800
 ! Expires: 30天
 ! Email: 
 ! Others: 
@@ -52,3 +52,5 @@ f2z4d.cn
 h56h5r.xyz
 hhmh114.com
 whdytzyyy.com
+b2fwnu.cn
+j5ef5r.cn
